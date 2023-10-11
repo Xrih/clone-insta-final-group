@@ -23,7 +23,7 @@ Si deseas probar este clon de Instagram en tu propio entorno, sigue estos pasos:
 
 Clona el repositorio: Haz una copia de este repositorio en tu máquina local usando el comando git:
 
-git clone [https://github.com/Sleydavid23/clone-instagram.git](https://github.com/Sleydavid23/clone-insta-final.git)
+git clone [https://github.com/Sleydavid23/clone-instagram.git](https://github.com/Xrih/clone-insta-final-group)
 
 Instala las dependencias: Asegúrate de tener todas las dependencias necesarias instaladas. Utiliza el comando npm para instalarlas:
 
